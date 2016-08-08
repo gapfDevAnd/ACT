@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ACT</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="high">HIGH</string>
+    <string name="low">LOW</string>
+</resources>
